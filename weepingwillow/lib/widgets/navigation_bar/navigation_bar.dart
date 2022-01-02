@@ -18,7 +18,7 @@ class MyNavigationBar extends StatelessWidget {
           Row(
             mainAxisSize: MainAxisSize.min,
             children: [
-              _NavBarItem('Episodes'),
+              _NavBarItem('Gallery'),
               SizedBox(
                 width: 60,
               ),
